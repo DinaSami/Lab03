@@ -1,0 +1,87 @@
+/* style list
+/* decoration text list
+/* resize image 
+/* style text
+*/
+
+body{
+
+ color: white;
+ background: url(res..jpg)no-repeat;
+ background-size:cover;
+ 
+}
+
+.sideBox{
+    width: 300px;
+    height: 900px;
+    background-color: black;
+    opacity: 0.9;
+    padding: 30px;
+
+}
+
+.sideBox h1{
+    text-align-last: center;
+}
+
+.sideBox p{
+    text-align: justify;
+    font-weight:normal;
+    color: rgb(138, 124, 124);
+}
+
+.sideBox h2{
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 50px;
+}
+
+
+ .sideBox form input{
+background-color:black;
+text-align: left;
+
+}
+.sideBox form{
+color: white;
+
+}
+
+.box {
+    width: 900px;
+    float: right;
+    border: 1px solid none;
+}
+
+.box ul li{
+    width: 120px;
+    float: left;
+    margin: 10px auto;
+    text-align: center;
+    list-style-type: none;
+}
+
+.box ul li a{
+    text-decoration: none;
+    color: rgb(71, 61, 61);
+
+}
+
+.box ul li:hover{
+background-color:purple;
+}
+
+.box ul li a:hover{
+    color: white;
+}
+
+
+
+
+/* #onlineButtom:hover{
+background-color: red;
+}
+*/
+
